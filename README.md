@@ -1,0 +1,2 @@
+# R5T.Norsica.Standard
+The IDotnetOperator standard service aggregation library for the Norisca project.
