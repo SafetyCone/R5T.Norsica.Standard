@@ -1,0 +1,4 @@
+R5T.Norsica.Standard.Construction - A construction console-app for the library R5T.Norsica.Standard.
+
+Goals
+
