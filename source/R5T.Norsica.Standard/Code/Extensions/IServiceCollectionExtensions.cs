@@ -4,9 +4,9 @@ using Microsoft.Extensions.DependencyInjection;
 
 using R5T.Caledonia;
 using R5T.Caledonia.Default;
-using R5T.Norsica.Default;
 using R5T.Norsica.Configuration;
 using R5T.Norsica.Configuration.Sardinia;
+using R5T.Norsica.Default;
 
 
 namespace R5T.Norsica.Standard
